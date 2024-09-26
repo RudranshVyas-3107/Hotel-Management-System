@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hotel Management System
 
 A POSIX-compliant C-based simulation of a hotel environment using OS concepts like process creation, inter-process communication, shared memory, and pipes. This system involves processes representing tables, customers, waiters, and a hotel manager to manage orders and calculate bills.
@@ -59,5 +59,4 @@ A POSIX-compliant C-based simulation of a hotel environment using OS concepts li
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 =======
-# Hotel-Management-System
->>>>>>> 
+
